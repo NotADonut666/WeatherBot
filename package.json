@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "L",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
