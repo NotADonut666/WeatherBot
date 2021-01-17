@@ -7,10 +7,8 @@ class WeatherBot
     constructor(_TelegramBot)
     {
         this.TelegramBot = _TelegramBot;
-
         this.WeatherSourcesSites = {};
     
-        this.Initialize();
     }
 
     Initialize()
