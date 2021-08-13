@@ -24,11 +24,6 @@ Town:{
         text: 'Kiev',
         callback_data: "Kiev"
         }]
-        //  [{
-        //   text: "Chuhuyiv",
-        //  callback_data: 'Ch'
-        //  }]
-      
       ]
     }
   }
